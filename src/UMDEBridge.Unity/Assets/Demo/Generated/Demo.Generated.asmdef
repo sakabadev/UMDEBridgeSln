@@ -1,0 +1,17 @@
+{
+    "name": "Demo.Generated",
+    "rootNamespace": "Demo.Generated",
+    "references": [
+        "GUID:b6ef2e6feac6176448471528e8849fe3",
+        "GUID:2a521ce7c86add045a7134581b78e0e3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

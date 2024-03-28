@@ -1,0 +1,11 @@
+{
+  "name": "dev.sakaba.umdebridge",
+  "displayName": "UMDEBridge",
+  "version": "0.0.5",
+  "unity": "2022.3",
+  "description": "",
+  "keywords": [],
+  "author": "Sakaba Dev <sakaba@sakaba.dev>",
+  "category": "",
+  "dependencies": {}
+}

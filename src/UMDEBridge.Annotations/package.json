@@ -1,0 +1,11 @@
+{
+  "name": "dev.sakaba.umdebridge.annotations",
+  "displayName": "UMDEBridge.Annotations",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "",
+  "keywords": [],
+  "license": "",
+  "category": "",
+  "dependencies": {}
+}

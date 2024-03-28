@@ -1,0 +1,20 @@
+{
+    "name": "Demo.Scripts.Editor",
+    "rootNamespace": "Demo.Scripts.Editor",
+    "references": [
+        "GUID:339a6f938c6e8d34fbe3343d3984d0ef",
+        "GUID:92676934e7eb461c849d499251d884b0",
+        "GUID:573b32f27f174aa3b87e3bac03671f0a",
+        "GUID:b6ef2e6feac6176448471528e8849fe3",
+        "GUID:77ff228d25a7a3744a854c8ff11bf44c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

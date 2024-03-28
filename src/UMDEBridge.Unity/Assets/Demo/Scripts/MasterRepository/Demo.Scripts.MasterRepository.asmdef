@@ -1,0 +1,18 @@
+{
+    "name": "Demo.Scripts.MasterRepository",
+    "rootNamespace": "Demo.Scripts.MasterRepository",
+    "references": [
+        "Demo.Generated",
+        "Demo.Scripts.Domain",
+        "Demo.Scripts.Master"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

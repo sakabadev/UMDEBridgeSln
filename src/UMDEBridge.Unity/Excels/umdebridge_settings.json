@@ -1,0 +1,1 @@
+{"mySqlSettings":{"Server":"127.0.0.1","Port":"3306","Database":"umdebridge-demo-db","User":"root","Pass":"root","Charset":"utf8"},"columnTypeMapping":{"items":[{"className":"int","fieldName":"","columnSql":"INT(11) NOT NULL DEFAULT -1"},{"className":"string","fieldName":"","columnSql":"TEXT"},{"className":"bool","fieldName":"","columnSql":"TINYINT(1) NOT NULL DEFAULT 0"}]}}
